@@ -1,7 +1,7 @@
 ﻿using Mirror;
 using UnityEngine;
 
-namespace Runtime
+namespace PingPong.Scripts.Runtime
 {
     public class Ball : NetworkBehaviour
     {

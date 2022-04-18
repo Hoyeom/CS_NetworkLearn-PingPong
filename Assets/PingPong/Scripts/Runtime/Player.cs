@@ -1,10 +1,9 @@
-﻿using System;
-using Mirror;
+﻿using Mirror;
 using UniRx;
 using UniRx.Triggers;
 using UnityEngine;
 
-namespace DefaultNamespace
+namespace PingPong.Scripts.Runtime
 {
     public class Player : NetworkBehaviour
     {
